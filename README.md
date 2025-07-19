@@ -1,6 +1,6 @@
 # 1. GPG Key
 
-expired after 2021/12/27
+expired after 2026/07/18
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
